@@ -1,0 +1,10 @@
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe.config
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.pdb
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csprojAssemblyReference.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Form1.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Properties.Resources.resources
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.GenerateResource.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.CoreCompileInputs.cache
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.exe
+C:\Users\ulasc\Desktop\Udemy\UdemyC#\VeriTABANI_DERSLERI\Kitaplik_Proje(access)\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.pdb
